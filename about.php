@@ -6,13 +6,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="thumbnail" content="assets/images/eduna-page-thumbnail.html" />
-    <meta name="description" content="Eduna - Online Education Courses HTML5 Template" />
-    <meta name="keywords" content="Online Education Courses HTML5 Template" />
-    <meta name="author" content="BizanTheme" />
+    <meta name="thumbnail" content="assets/images/logo.webp" />
+    <meta name="description" content="Uttam Career Institute Pvt. Ltd. - Online Education Courses" />
+    <meta name="keywords" content="Online Education Courses " />
+    
 
-    <title>Uttam Career Institute Pvt. Ltd. | Home</title>
-    <link rel="shortcut icon" href="assets/images/favicon.svg" />
+    <title>Uttam Career Institute Pvt. Ltd. | About Us</title>
+    <link rel="shortcut icon" href="assets/images/logo.webp" />
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/plugins/css/bootstrap.min.css" />

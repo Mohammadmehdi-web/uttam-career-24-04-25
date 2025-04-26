@@ -6,13 +6,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="thumbnail" content="assets/images/eduna-page-thumbnail.html" />
-    <meta name="description" content="Eduna - Online Education Courses HTML5 Template" />
-    <meta name="keywords" content="Online Education Courses HTML5 Template" />
-    <meta name="author" content="BizanTheme" />
+    <meta name="thumbnail" content="assets/images/logo.webp" />
+    <meta name="description" content="Uttam Career Institute Pvt. Ltd. - Online Education Courses" />
+    <meta name="keywords" content="Online Education Courses " />
+    
 
-    <title>Uttam Career Institute Pvt. Ltd. | Home</title>
-    <link rel="shortcut icon" href="assets/images/favicon.svg" />
+    <title>Uttam Career Institute Pvt. Ltd. | Indian Army</title>
+    <link rel="shortcut icon" href="assets/images/logo.webp" />
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/plugins/css/bootstrap.min.css" />
@@ -32,14 +32,7 @@
     <link rel="stylesheet" href="assets/plugins/css/uicons.css" />
     <!-- Main CSS -->
     <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.2.0/magnific-popup.css"
-        integrity="sha512-UhvuUthI9VM4N3ZJ5o1lZgj2zNtANzr3zyucuZZDy67BO6Ep5+rJN2PST7kPj+fOI7M/7wVeYaSaaAICmIQ4sQ=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <!-- jQuery Links -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
-        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <style>
         a {
             color: inherit;
@@ -226,7 +219,7 @@
             margin-bottom: 20px !important;
         }
 
- 
+
         .ed-header__menu li {
             margin-right: 50px;
 
@@ -350,6 +343,15 @@
             max-width: 1463px;
             margin: auto;
         }
+
+        .ed-shop-thumb img {
+
+            height: 227px;
+        }
+
+        .product__details-inner {
+            padding-left: 50px;
+        }
     </style>
 </head>
 
@@ -386,7 +388,35 @@
                     <section class="ed-blog__details section-gap position-relative">
                         <div class="container ed-container">
                             <div class="row">
+
                                 <div class="col-lg-12 col-xl-8 col-12">
+                                    <div class="row align-items-center g-0">
+                                        <div class="col-lg-3 col-12">
+                                            <!-- Product Details Image  -->
+                                            <div class="ed-shop-thumb">
+                                                <img src="assets/images/product/product-details/product-1.png"
+                                                    alt="product-details-img" />
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-9 col-12">
+                                            <!-- Product Details Content  -->
+                                            <div class="product__details-inner">
+
+                                                <div class="ed-product-short">
+                                                    <h3>Career in the Indian Army</h3>
+                                                    <p>
+                                                        The Indian Army offers outstanding career opportunities to
+                                                        courageous and motivated young individuals. It is a profession
+                                                        that not only promises immense growth and a privileged lifestyle
+                                                        but also provides the supreme honor of serving the nation. The
+                                                        Armed Forces embody India's core ideals of service, sacrifice,
+                                                        patriotism, and unity.
+                                                    </p>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
                                     <!-- Blog Details Main -->
                                     <div class="ed-blog__details-main">
                                         <div class="ed-blog__details-top">
@@ -699,86 +729,7 @@
                 <!-- Start About Area  -->
 
 
-                <div class="section-bg background-image" style="background: #ffffff;">
-                    <!-- Start Blog Area -->
-                    <section class="ed-blog section-gap">
-                        <div class="ed-container">
 
-                            <div class="popup-gallery">
-
-                                <!-- Gallery Item with Video Popup -->
-                                <div class="gallery_item">
-                                    <a class="hover_affect_nlf position-relative popup-video"
-                                        href="https://www.youtube.com/watch?v=8-eLtaSiaQU" title="Watch Video">
-
-                                        <iframe width="100%" height="315"
-                                            src="https://www.youtube.com/embed/8-eLtaSiaQU?si=WhSVsEJ5eP8kUFCB"
-                                            title="YouTube video player" frameborder="0"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-                                        <span class="singicon_btn_nlf">
-                                            <svg class="youtube-icon" xmlns="http://www.w3.org/2000/svg" width="40"
-                                                height="40" viewBox="0 0 24 24" fill="#FF0000">
-                                                <path
-                                                    d="M23.498 6.186a2.999 2.999 0 0 0-2.118-2.121C19.504 3.5 12 3.5 12 3.5s-7.504 0-9.38.565a3 3 0 0 0-2.118 2.121C0 8.095 0 12 0 12s0 3.905.502 5.814a2.999 2.999 0 0 0 2.118 2.121C4.496 20.5 12 20.5 12 20.5s7.504 0 9.38-.565a2.999 2.999 0 0 0 2.118-2.121C24 15.905 24 12 24 12s0-3.905-.502-5.814zM9.75 15.5v-7l6 3.5-6 3.5z" />
-                                            </svg>
-                                        </span>
-
-                                    </a>
-                                </div>
-
-
-
-                                <div class="gallery_item">
-                                    <a class="hover_affect_nlf position-relative popup-video"
-                                        href="https://www.youtube.com/embed/hanx-0hJcCY?si=vyXYIPs0NtYZvLo1"
-                                        title="Watch Video">
-
-                                        <iframe width="100%" height="315"
-                                            src="https://www.youtube.com/embed/hanx-0hJcCY?si=vyXYIPs0NtYZvLo1"
-                                            title="YouTube video player" frameborder="0"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-                                        <span class="singicon_btn_nlf">
-                                            <svg class="youtube-icon" xmlns="http://www.w3.org/2000/svg" width="40"
-                                                height="40" viewBox="0 0 24 24" fill="#FF0000">
-                                                <path
-                                                    d="M23.498 6.186a2.999 2.999 0 0 0-2.118-2.121C19.504 3.5 12 3.5 12 3.5s-7.504 0-9.38.565a3 3 0 0 0-2.118 2.121C0 8.095 0 12 0 12s0 3.905.502 5.814a2.999 2.999 0 0 0 2.118 2.121C4.496 20.5 12 20.5 12 20.5s7.504 0 9.38-.565a2.999 2.999 0 0 0 2.118-2.121C24 15.905 24 12 24 12s0-3.905-.502-5.814zM9.75 15.5v-7l6 3.5-6 3.5z" />
-                                            </svg>
-                                        </span>
-
-                                    </a>
-                                </div>
-
-                                <div class="gallery_item">
-                                    <a class="hover_affect_nlf position-relative popup-video"
-                                        href="https://www.youtube.com/watch?v=FlGbNLlFQgs" title="Watch Video">
-
-                                        <iframe width="560" height="315"
-                                            src="https://www.youtube.com/embed/FlGbNLlFQgs?si=DpVea_oqO14xOCaH"
-                                            title="YouTube video player" frameborder="0"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-                                        <span class="singicon_btn_nlf">
-                                            <svg class="youtube-icon" xmlns="http://www.w3.org/2000/svg" width="40"
-                                                height="40" viewBox="0 0 24 24" fill="#FF0000">
-                                                <path
-                                                    d="M23.498 6.186a2.999 2.999 0 0 0-2.118-2.121C19.504 3.5 12 3.5 12 3.5s-7.504 0-9.38.565a3 3 0 0 0-2.118 2.121C0 8.095 0 12 0 12s0 3.905.502 5.814a2.999 2.999 0 0 0 2.118 2.121C4.496 20.5 12 20.5 12 20.5s7.504 0 9.38-.565a2.999 2.999 0 0 0 2.118-2.121C24 15.905 24 12 24 12s0-3.905-.502-5.814zM9.75 15.5v-7l6 3.5-6 3.5z" />
-                                            </svg>
-                                        </span>
-
-                                    </a>
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
-                    <!-- End Blog Area -->
-                </div>
-                <!-- Start Why Choose Area -->
 
             </main>
 
@@ -914,29 +865,6 @@
 
     <!-- Main JS -->
     <script src="assets/plugins/js/active.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-    <script>
-        // popup-gallery
-        jQuery(document).ready(function ($) {
-            $(".popup-gallery").magnificPopup({
-                delegate: "a",
-                type: "image",
-                tLoading: "Loading image #%curr%...",
-                mainClass: "mfp-img-mobile",
-                gallery: {
-                    enabled: true,
-                    navigateByImgClick: true,
-                    preload: [0, 1] // Preload previous and next images
-                },
-                image: {
-                    tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
-                    titleSrc: function (item) {
-                        return item.el.attr("title") || "";
-                    }
-                }
-            });
-        });
-    </script>
 
 </body>
 

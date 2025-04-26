@@ -6,13 +6,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="thumbnail" content="assets/images/eduna-page-thumbnail.html" />
-    <meta name="description" content="Eduna - Online Education Courses HTML5 Template" />
-    <meta name="keywords" content="Online Education Courses HTML5 Template" />
-    <meta name="author" content="BizanTheme" />
+    <meta name="thumbnail" content="assets/images/logo.webp" />
+    <meta name="description" content="Uttam Career Institute Pvt. Ltd. - Online Education Courses" />
+    <meta name="keywords" content="Online Education Courses " />
+    
 
-    <title>Uttam Career Institute Pvt. Ltd. | Home</title>
-    <link rel="shortcut icon" href="assets/images/favicon.svg" />
+    <title>Uttam Career Institute Pvt. Ltd. | Contact Us</title>
+    <link rel="shortcut icon" href="assets/images/logo.webp" />
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/plugins/css/bootstrap.min.css" />
@@ -32,14 +32,7 @@
     <link rel="stylesheet" href="assets/plugins/css/uicons.css" />
     <!-- Main CSS -->
     <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.2.0/magnific-popup.css"
-        integrity="sha512-UhvuUthI9VM4N3ZJ5o1lZgj2zNtANzr3zyucuZZDy67BO6Ep5+rJN2PST7kPj+fOI7M/7wVeYaSaaAICmIQ4sQ=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <!-- jQuery Links -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
-        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+   
     <style>
         a {
             color: inherit;
