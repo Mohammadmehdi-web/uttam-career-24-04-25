@@ -163,13 +163,13 @@
                                             <a href="indian-army.php">Indian Army</a>
                                         </li>
                                         <li>
-                                            <a href="course-2.html">Indian Navy</a>
+                                            <a href="indian-navy.php">Indian Navy</a>
                                         </li>
                                         <li>
-                                            <a href="course-3.html">Indian Airforce</a>
+                                            <a href="indian-airforce.php">Indian Air Force</a>
                                         </li>
                                         <li>
-                                            <a href="course-details.html">Courses</a>
+                                            <a href="courses.php">Courses</a>
                                         </li>
                                     </ul>
                                 </li>

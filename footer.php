@@ -107,7 +107,7 @@
 
                             <div class="col-lg-6">
                                 <p class="ed-footer__copyright-text">
-                                    Copyright 2024  Uttam Career Institute Pvt. Ltd. All Rights Reserved
+                                    Copyright 2025  Uttam Career Institute Pvt. Ltd. All Rights Reserved
 
 
                                 </p>

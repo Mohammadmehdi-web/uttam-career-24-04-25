@@ -395,6 +395,11 @@
             margin-bottom: 33px;
             color: white;
         }
+
+        .ed-shop-thumb img {
+
+            object-fit: fill;
+        }
     </style>
 </head>
 
@@ -415,11 +420,11 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="ed-breadcrumbs__content">
-                                        <h3 class="ed-breadcrumbs__title">Indian Army</h3>
+                                        <h3 class="ed-breadcrumbs__title">Indian Navy</h3>
                                         <ul class="ed-breadcrumbs__menu">
                                             <li class="active"><a href="index.php">Home</a></li>
                                             <li>/</li>
-                                            <li>Indian Army</li>
+                                            <li>Indian Navy</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -437,7 +442,7 @@
                                         <div class="col-lg-3 col-12">
                                             <!-- Product Details Image  -->
                                             <div class="ed-shop-thumb">
-                                                <img src="https://i0.wp.com/uttamcareer.in/wp-content/uploads/2024/04/2-1.png?resize=250%2C280&ssl=1"
+                                                <img src="https://i0.wp.com/uttamcareer.in/wp-content/uploads/2024/04/3-1.png?resize=250%2C280&ssl=1"
                                                     alt="product-details-img" />
                                             </div>
                                         </div>
@@ -446,14 +451,14 @@
                                             <div class="product__details-inner">
 
                                                 <div class="ed-product-short">
-                                                    <h3>Career in the Indian Army</h3>
+                                                    <h3>Career in the Indian Navy</h3>
                                                     <p>
-                                                        The Indian Army offers outstanding career opportunities to
-                                                        courageous and motivated young individuals. It is a profession
-                                                        that not only promises immense growth and a privileged lifestyle
-                                                        but also provides the supreme honor of serving the nation. The
-                                                        Armed Forces embody India's core ideals of service, sacrifice,
-                                                        patriotism, and unity.
+                                                        A career in the Indian Navy is a golden opportunity to live a
+                                                        life full of honor, adventure, prestige, and service to the
+                                                        nation. It is a career unlike any other, offering young men and
+                                                        women the chance to serve the country at sea, in the air, and on
+                                                        land, while experiencing personal and professional growth at
+                                                        every step.
                                                     </p>
                                                 </div>
 
@@ -464,87 +469,74 @@
                                     <div class="ed-blog__details-main">
                                         <div class="ed-blog__details-top">
                                             <p class="ed-blog__details-text">
-                                                The primary role of the Army is to protect the territorial integrity of
-                                                the nation against external threats. Additionally, the military supports
-                                                civil authorities during internal security challenges, helps maintain
-                                                public order, and conducts relief and rescue operations during natural
-                                                disasters. It also assists in maintaining essential services in times of
-                                                crisis.
+                                                The Indian Navy is responsible for securing India’s maritime borders,
+                                                promoting peace and security in the Indian Ocean Region, and
+                                                representing the nation’s interests across the world’s oceans. It is a
+                                                modern, multi-dimensional force equipped with the latest warships,
+                                                submarines, aircraft, and cutting-edge technologies. A career in the
+                                                Indian Navy is not only prestigious but also highly rewarding, offering
+                                                a perfect blend of service, leadership, adventure, and lifelong
+                                                learning.
                                             </p>
                                             <br />
                                             <p class="ed-blog__details-text">
-                                                Choosing a career in the Indian Army is not just about wearing a uniform
-                                                — it’s about embracing a life of honor, courage, and commitment. It is a
-                                                call to serve something larger than oneself: the nation.
+                                                A career in the Indian Navy is a lifelong badge of honor. It is a
+                                                commitment to serve the country with dignity, courage, and
+                                                professionalism. It is a life of discipline, global exposure, and
+                                                unmatched adventure. Joining the Indian Navy means living a story worth
+                                                telling — a story of valor, leadership, and service.
 
-                                                The Indian Army is more than a profession; it’s a way of life that
-                                                shapes leaders, builds character, and offers opportunities unmatched in
-                                                any other field. Whether it’s defending the frontiers, leading rescue
-                                                missions during natural disasters, or restoring peace during internal
-                                                unrest — the Indian Army stands tall, embodying the spirit of service
-                                                before self.
                                             </p>
                                             <h2 class="ed-blog__details-title mt-5">
-                                                What is a Permanent Commission (PC)?
+                                                Career in the Indian Navy?
                                             </h2>
                                             <p class="ed-blog__details-text">
-                                                Permanent Commission (PC) in the Indian Armed Forces means making a
-                                                full-time career as an officer until retirement. Officers selected for
-                                                Permanent Commission serve the nation throughout their career, rising in
-                                                rank and responsibility over time. The retirement age depends on the
-                                                rank they achieve. Once granted a PC, an officer can enjoy a stable and
-                                                long-term journey in the Indian Army, Navy, or Air Force.
+                                                The Indian Navy offers a world of opportunities for young aspirants.
+                                                These opportunities inspire candidates to build a proud and honorable
+                                                career by serving the nation with dedication, bravery, and loyalty.
                                             </p>
-                                            <h2 class="ed-blog__details-title mt-5">
-                                                What is Short Service Commission (SSC)?
-                                            </h2>
+                                            <br>
                                             <p class="ed-blog__details-text">
-                                                Short Service Commission (SSC) is a type of commission offered in the
-                                                Indian Armed Forces — Army, Navy, and Air Force — that allows
-                                                individuals to serve the nation as officers for a limited period of
-                                                time. It is an excellent opportunity for young men and women who wish to
-                                                experience life in the armed forces without committing to a lifelong
-                                                military career.
+                                                <strong>1. Service to the Nation :</strong> Choosing a career in the
+                                                Indian Navy means committing yourself to the defense and security of the
+                                                nation. As a naval officer, you play a vital role in safeguarding
+                                                India’s maritime interests and ensuring the protection of our coastline.
                                             </p>
+                                            <br>
                                             <p class="ed-blog__details-text">
-                                                Through SSC, candidates are typically commissioned for an initial period
-                                                of 10 years, which can be extended by 4 more years based on performance,
-                                                service requirements, and mutual agreement. After completing the total
-                                                14 years of service, officers can either opt to leave the service and
-                                                pursue civilian careers or, in some cases, they may be given the option
-                                                to apply for a Permanent Commission (depending on vacancies and
-                                                eligibility).
+                                                <strong>2. Life Full of Adventure :</strong> Life in the Indian Navy is
+                                                packed with excitement and thrilling experiences. Every day could
+                                                involve sailing through vast oceans, conducting rescue missions, or
+                                                travelling across the globe. Every moment brings a new adventure and a
+                                                unique story to live.
+                                            </p>
+                                            <br>
+                                            <p class="ed-blog__details-text">
+                                                <strong>3. International Exposure :</strong> The Indian Navy operates on
+                                                an international scale, giving officers opportunities to visit different
+                                                countries and interact with diverse cultures. Serving in the Navy allows
+                                                you to participate in multinational exercises and collaborate with
+                                                foreign naval forces.
+                                            </p>
+                                            <br>
+                                            <p class="ed-blog__details-text">
+                                                <strong>4. Personal and Professional Development :</strong> The Indian
+                                                Navy is known for its comprehensive training programs that focus on
+                                                developing well-rounded individuals. It doesn’t just prepare you for
+                                                your role but also nurtures qualities like leadership, discipline,
+                                                confidence, and teamwork, helping you grow both personally and
+                                                professionally.
+                                            </p>
+                                            <br>
+                                            <p class="ed-blog__details-text">
+                                                <strong>5. Excellent Salary and Perks :</strong> The Indian Navy offers
+                                                an impressive pay structure along with multiple allowances. Beyond the
+                                                salary, officers enjoy free healthcare, quality accommodation, travel
+                                                opportunities, and a secure retirement pension. It ensures a rewarding
+                                                and stable life both during and after service.
                                             </p>
                                         </div>
 
-                                        <!-- Blog Details Widget -->
-                                        <div class="ed-blog__details-widget">
-                                            <h1 class="ed-blog__details-widget-title">
-                                                Short Service Commission is available in various branches such as:
-                                            </h1>
-                                            <ul class="ed-blog__details-list">
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Technical Branches.
-                                                </li>
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Flying Branch (Air Force).
-                                                </li>
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Education Corps.
-                                                </li>
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Judge Advocate General (JAG) Branch.
-                                                </li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-xl-4 col-md-8 col-12">
@@ -595,7 +587,7 @@
                                     <div class="ed-section-head">
                                         <div class="ed-section-head__info">
                                             <h3 class="ed-section-head__title m-0 ed-split-text left text-center">
-                                            For More Information on Indian armed force <br> Click Below :
+                                                For More Information on Indian armed force <br> Click Below :
                                             </h3>
                                         </div>
                                     </div>
@@ -636,7 +628,7 @@
                                         </div>
                                     </div>
                                 </div>
-                               
+
                             </div>
                         </div>
                     </section>

@@ -395,6 +395,15 @@
             margin-bottom: 33px;
             color: white;
         }
+
+        .ed-shop-thumb img {
+
+            object-fit: fill;
+        }
+
+        .mt-5 {
+            margin-top: 2rem !important;
+        }
     </style>
 </head>
 
@@ -415,11 +424,11 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-6 col-md-6 col-12">
                                     <div class="ed-breadcrumbs__content">
-                                        <h3 class="ed-breadcrumbs__title">Indian Army</h3>
+                                        <h3 class="ed-breadcrumbs__title">Indian Air Force</h3>
                                         <ul class="ed-breadcrumbs__menu">
                                             <li class="active"><a href="index.php">Home</a></li>
                                             <li>/</li>
-                                            <li>Indian Army</li>
+                                            <li>Indian Air Force</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -437,7 +446,7 @@
                                         <div class="col-lg-3 col-12">
                                             <!-- Product Details Image  -->
                                             <div class="ed-shop-thumb">
-                                                <img src="https://i0.wp.com/uttamcareer.in/wp-content/uploads/2024/04/2-1.png?resize=250%2C280&ssl=1"
+                                                <img src="https://i0.wp.com/uttamcareer.in/wp-content/uploads/2024/04/1-1.png?resize=250%2C280&ssl=1"
                                                     alt="product-details-img" />
                                             </div>
                                         </div>
@@ -446,14 +455,17 @@
                                             <div class="product__details-inner">
 
                                                 <div class="ed-product-short">
-                                                    <h3>Career in the Indian Army</h3>
+                                                    <h3>Career in the Indian Air Force</h3>
                                                     <p>
-                                                        The Indian Army offers outstanding career opportunities to
-                                                        courageous and motivated young individuals. It is a profession
-                                                        that not only promises immense growth and a privileged lifestyle
-                                                        but also provides the supreme honor of serving the nation. The
-                                                        Armed Forces embody India's core ideals of service, sacrifice,
-                                                        patriotism, and unity.
+                                                        The Indian Air Force (IAF) is one of the most elite and
+                                                        respected air forces in the world, offering dynamic and
+                                                        challenging career opportunities for individuals passionate
+                                                        about defending their nation. The IAF plays a critical role in
+                                                        safeguarding India’s airspace and providing air support to
+                                                        ground forces, maintaining peace, conducting search-and-rescue
+                                                        missions, and ensuring the strategic defense of the country.
+
+
                                                     </p>
                                                 </div>
 
@@ -464,87 +476,50 @@
                                     <div class="ed-blog__details-main">
                                         <div class="ed-blog__details-top">
                                             <p class="ed-blog__details-text">
-                                                The primary role of the Army is to protect the territorial integrity of
-                                                the nation against external threats. Additionally, the military supports
-                                                civil authorities during internal security challenges, helps maintain
-                                                public order, and conducts relief and rescue operations during natural
-                                                disasters. It also assists in maintaining essential services in times of
-                                                crisis.
+                                                Whether you aspire to be a pilot, engineer, or a specialist in
+                                                any other field, a career in the Indian Air Force promises
+                                                excitement, honor, and the chance to serve the nation with
+                                                pride.A career in the Indian Air Force is not just a job—it's a calling
+                                                that involves dedication, courage, and a commitment to the defense of
+                                                the nation. If you are ready to rise to the challenge, the IAF provides
+                                                you with the platform to grow, excel, and serve with pride.
                                             </p>
-                                            <br />
-                                            <p class="ed-blog__details-text">
-                                                Choosing a career in the Indian Army is not just about wearing a uniform
-                                                — it’s about embracing a life of honor, courage, and commitment. It is a
-                                                call to serve something larger than oneself: the nation.
 
-                                                The Indian Army is more than a profession; it’s a way of life that
-                                                shapes leaders, builds character, and offers opportunities unmatched in
-                                                any other field. Whether it’s defending the frontiers, leading rescue
-                                                missions during natural disasters, or restoring peace during internal
-                                                unrest — the Indian Army stands tall, embodying the spirit of service
-                                                before self.
-                                            </p>
+
                                             <h2 class="ed-blog__details-title mt-5">
-                                                What is a Permanent Commission (PC)?
+                                                How to Join the Indian Air Force?
                                             </h2>
                                             <p class="ed-blog__details-text">
-                                                Permanent Commission (PC) in the Indian Armed Forces means making a
-                                                full-time career as an officer until retirement. Officers selected for
-                                                Permanent Commission serve the nation throughout their career, rising in
-                                                rank and responsibility over time. The retirement age depends on the
-                                                rank they achieve. Once granted a PC, an officer can enjoy a stable and
-                                                long-term journey in the Indian Army, Navy, or Air Force.
+                                                Joining the Indian Air Force offers multiple pathways depending on your
+                                                qualifications and career goals. Some of the major entry routes include
+                                                the National Defence Academy (NDA), for students after Class 12;
+                                                Combined Defence Services (CDS) entry, for graduates; and the Air Force
+                                                Common Admission Test (AFCAT), for graduates or postgraduates in various
+                                                fields.Additionally, the University Entry Scheme (UES) allows final-year
+                                                engineering students to join the IAF, while NCC Special Entry targets
+                                                candidates with an NCC ‘C’ certificate. The IAF also offers both Short
+                                                Service Commission (SSC) and Permanent Commission (PC) options,
+                                                depending on the length of service and career type.
                                             </p>
+
                                             <h2 class="ed-blog__details-title mt-5">
-                                                What is Short Service Commission (SSC)?
+                                                Training in the Indian Air Force
                                             </h2>
                                             <p class="ed-blog__details-text">
-                                                Short Service Commission (SSC) is a type of commission offered in the
-                                                Indian Armed Forces — Army, Navy, and Air Force — that allows
-                                                individuals to serve the nation as officers for a limited period of
-                                                time. It is an excellent opportunity for young men and women who wish to
-                                                experience life in the armed forces without committing to a lifelong
-                                                military career.
-                                            </p>
-                                            <p class="ed-blog__details-text">
-                                                Through SSC, candidates are typically commissioned for an initial period
-                                                of 10 years, which can be extended by 4 more years based on performance,
-                                                service requirements, and mutual agreement. After completing the total
-                                                14 years of service, officers can either opt to leave the service and
-                                                pursue civilian careers or, in some cases, they may be given the option
-                                                to apply for a Permanent Commission (depending on vacancies and
-                                                eligibility).
+                                                Training in the Indian Air Force is a demanding and comprehensive
+                                                process, aimed at preparing candidates to perform in the most
+                                                challenging environments. All new recruits undergo training at the Air
+                                                Force Academy (AFA) in Hyderabad, where they are trained in leadership,
+                                                physical fitness, and operational skills. For officers in the Flying
+                                                Branch, specialized flying training is provided to ensure proficiency in
+                                                piloting different aircraft types. Technical and Ground Duty personnel
+                                                also receive specific training based on their role, whether it’s
+                                                aircraft maintenance, logistics, or administration. The training is
+                                                designed to develop not only job-specific skills but also essential
+                                                attributes like discipline, teamwork, and decision-making.
                                             </p>
                                         </div>
 
-                                        <!-- Blog Details Widget -->
-                                        <div class="ed-blog__details-widget">
-                                            <h1 class="ed-blog__details-widget-title">
-                                                Short Service Commission is available in various branches such as:
-                                            </h1>
-                                            <ul class="ed-blog__details-list">
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Technical Branches.
-                                                </li>
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Flying Branch (Air Force).
-                                                </li>
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Education Corps.
-                                                </li>
-                                                <li>
-                                                    <img src="assets/images/icons/icon-check-blue.svg"
-                                                        alt="icon-check-blue" />
-                                                    Judge Advocate General (JAG) Branch.
-                                                </li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-xl-4 col-md-8 col-12">
@@ -595,7 +570,7 @@
                                     <div class="ed-section-head">
                                         <div class="ed-section-head__info">
                                             <h3 class="ed-section-head__title m-0 ed-split-text left text-center">
-                                            For More Information on Indian armed force <br> Click Below :
+                                                For More Information on Indian armed force <br> Click Below :
                                             </h3>
                                         </div>
                                     </div>
@@ -636,7 +611,7 @@
                                         </div>
                                     </div>
                                 </div>
-                               
+
                             </div>
                         </div>
                     </section>
